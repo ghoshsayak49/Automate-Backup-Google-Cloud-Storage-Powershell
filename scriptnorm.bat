@@ -1,0 +1,1 @@
+gsutil rsync -r "%backupdir%" gs://"%buk%/%num%"
